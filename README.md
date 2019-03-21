@@ -160,26 +160,4 @@ this is good! :+1:
  
  </details>
 
-### 插入代码
-```bash
-插入普通代码用：
-`
-```bash
-```
 
-插入js代码
-```js
-
-```
-`
-插入css代码
-```css
-css代码
-```
-
-插入HTML代码
-```html
-html代码
-```
-其他类似
-```
