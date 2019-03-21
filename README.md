@@ -159,3 +159,19 @@ this is good! :+1:
  [![npm Downloads](https://img.shields.io/npm/dt/30-seconds-of-code.svg)](https://www.npmjs.com/package/30-seconds-of-code)
  
  </details>
+
+### 插入代码
+```
+```bash
+普通命令
+```
+```js
+javascript代码
+```
+```css
+css代码
+```
+```html
+html代码
+```
+```
