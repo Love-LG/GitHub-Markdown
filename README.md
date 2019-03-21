@@ -1,7 +1,7 @@
 # GitHub-Markdown
 GitHub常用的markdown语法
 
-### markdown常用列表
+### 1.markdown常用列表
 无序列表使用`*`语法如下：
 ```bash
 * item1
@@ -48,7 +48,7 @@ GitHub常用的markdown语法
  
  <br>[⬆ Back to top](#contents)
 
-### markdown标题
+### 2.markdown标题
 markdown常用标题使用`#`语法如下：
 ```bash
 # this is <h1> tag
@@ -64,3 +64,19 @@ markdown常用标题使用`#`语法如下：
 ### 这是三级标题
  
  </details>
+ 
+  <br>[⬆ Back to top](#contents)
+  ### 3.markdown链接与图片
+  markdown插入链接使用`[描述](url)`插入图片使用`![描述](url)`语法如下：
+  ```bash
+  [baidu](https://www.baidu.com)  //插入链接
+  ![tomcat](https://octodex.github.com/images/yaktocat.png)  //插入图片
+  ```
+  <details>
+ <summary>Example</summary>
+ 
+ [baidu](https://www.baidu.com)
+ ![tomcat](https://octodex.github.com/images/yaktocat.png)
+ 
+ </details>
+ 
