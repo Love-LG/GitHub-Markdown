@@ -134,3 +134,13 @@ this is good! :+1:
  </details>
  
 <br>[⬆ Back to top](#contents)
+### 键盘按钮
+键盘按钮的语法为`<kbd><kbd>`
+```bash
+<kbd>Ctrl</kbd><kbd>C</kbd>
+```
+<details>
+ <summary>Example</summary>
+ copy is:
+ <kbd>Ctrl</kbd><kbd>C</kbd>
+ </details>
