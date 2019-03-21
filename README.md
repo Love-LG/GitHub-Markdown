@@ -96,19 +96,10 @@ markdown常用标题使用`#`语法如下：
  
  </details>
  
-### 4.markdown插入代码
-markdown插入代码常用语法如下：
+### 4.markdown表格
 ```bash
-```bash
-插入普通代码（命令）
-``
-```css
-css代码
-```
-```html
-html代码
-```
-```js
-javascript代码
-```
+first Header | second Header
+------------ | -------------
+this is paat1 | this is part2
+this is part3 | this is part 4
 ```
