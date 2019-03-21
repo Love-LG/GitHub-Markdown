@@ -30,9 +30,6 @@ GitHub常用的markdown语法
   1. item1
   2. item2
   3. item3
-    1. item3_1
-    2. item3_2
-    3. item3_3
   4. item4
   ```
   <details>
@@ -41,11 +38,26 @@ GitHub常用的markdown语法
  1. item1
  2. item2
  3. item3
-   1. item3_1
-   2. item3_2
-   3. item3_3
  4. item4
  
  </details>
  
  <br>[⬆ Back to top](#contents)
+
+### markdown标题
+markdown常用标题使用`#`语法如下：
+```bash
+# this is <h1> tag
+## this is <h2> tag
+### this is <h3> tag
+###### this is <h6> tag
+```
+<details>
+ <summary>Example</summary>
+ 
+# this is <h1> tag
+## this is <h2> tag
+### this is <h3> tag
+###### this is <h6> tag
+ 
+ </details>
