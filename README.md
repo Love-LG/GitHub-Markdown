@@ -142,5 +142,20 @@ this is good! :+1:
 <details>
  <summary>Example</summary>
  copy is:
- <kbd>Ctrl</kbd><kbd>C</kbd>
+ <kbd>Ctrl</kbd>+<kbd>C</kbd>
+ </details>
+
+<br>[⬆ Back to top](#contents)
+
+### 图片与链接结合
+```bash
+[![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://github.com/30-seconds/30-seconds-of-code/blob/master/LICENSE) 
+[![npm Downloads](https://img.shields.io/npm/dt/30-seconds-of-code.svg)](https://www.npmjs.com/package/30-seconds-of-code)
+```
+<details>
+ <summary>Example</summary>
+ 
+ [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://github.com/30-seconds/30-seconds-of-  code/blob/master/LICENSE) 
+ [![npm Downloads](https://img.shields.io/npm/dt/30-seconds-of-code.svg)](https://www.npmjs.com/package/30-seconds-of-code)
+ 
  </details>
