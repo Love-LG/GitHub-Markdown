@@ -116,7 +116,7 @@ this is part3 | this is part 4
 <br>[⬆ Back to top](#contents)
 
 ### 使用emoji
-github使用emoji的语法为 :+1:
+github使用emoji的语法为 :+1;
 ```bash
 today am so happy :smile:
 this is good! :+1:
