@@ -7,6 +7,9 @@ GitHub常用的markdown语法
 * item1
 * item2
 * item3
+  * item3_1
+  * item3_2
+* item4
 ```
 <details>
   <summary>Example</summary>
@@ -14,8 +17,8 @@ GitHub常用的markdown语法
   * item1
   * item2
   * item3
-    *item3_1
-    *item3_2
+    * item3_1
+    * item3_2
   * item4
   
   </details>
