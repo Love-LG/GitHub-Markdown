@@ -103,3 +103,12 @@ first Header | second Header
 this is paat1 | this is part2
 this is part3 | this is part 4
 ```
+<details>
+ <summary>Example</summary>
+ 
+ first Header | second Header
+------------ | -------------
+this is paat1 | this is part2
+this is part3 | this is part 4
+
+ </details>
