@@ -116,8 +116,16 @@ this is part3 | this is part 4
 <br>[⬆ Back to top](#contents)
 
 ### 使用emoji
-github使用emoji的语法为 :+1;
+github使用emoji的语法为 `:emojicode:`更多的emoji图标[emojicode](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ```bash
 today am so happy :smile:
 this is good! :+1:
 ```
+<details>
+ <summary>Example</summary>
+ 
+today am so happy :smile:
+this is good! :+1:
+
+ </details>
+<br>[⬆ Back to top](#contents)
