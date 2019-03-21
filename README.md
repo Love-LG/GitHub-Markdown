@@ -161,17 +161,21 @@ this is good! :+1:
  </details>
 
 ### 插入代码
-```
+```bash
+
 ```bash
 普通命令
 ```
 ```js
 javascript代码
 ```
+
 ```css
 css代码
 ```
+
 ```html
 html代码
 ```
+
 ```
