@@ -48,15 +48,16 @@ GitHub常用的markdown语法
  任务列表使用`- []`语法：
  ```bash
  - [x] Create a repo
- - [] pull a requst
- - [] push a commit
+ - [ ] pull a requst
+ - [ ] push a commit
  ```
  <details>
  <summary>Example</summary>
  
  - [x] Create a repo
- - [] pull a request
- - [] push a commit
+ - [ ] pull a request
+ - [ ] push a commit
+ 
  </details>
  
  <br>[⬆ Back to top](#contents)
