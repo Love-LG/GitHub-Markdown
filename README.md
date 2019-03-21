@@ -117,7 +117,7 @@ this is part3 | this is part 4
  
 <br>[⬆ Back to top](#contents)
 
-### 使用emoji
+### 5.使用emoji
 github使用emoji的语法为 `:emojicode:`更多的emoji图标[emojicode](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ```bash
 today am so happy :smile:
@@ -134,7 +134,7 @@ this is good! :+1:
  </details>
  
 <br>[⬆ Back to top](#contents)
-### 键盘按钮
+### 6.键盘按钮
 键盘按钮的语法为`<kbd><kbd>`
 ```bash
 <kbd>Ctrl</kbd><kbd>C</kbd>
@@ -147,7 +147,7 @@ this is good! :+1:
 
 <br>[⬆ Back to top](#contents)
 
-### 图片与链接结合
+### 7.图片与链接结合
 ```bash
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://github.com/30-seconds/30-seconds-of-code/blob/master/LICENSE) 
 [![npm Downloads](https://img.shields.io/npm/dt/30-seconds-of-code.svg)](https://www.npmjs.com/package/30-seconds-of-code)
@@ -155,7 +155,7 @@ this is good! :+1:
 <details>
  <summary>Example</summary>
  
- [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://github.com/30-seconds/30-seconds-of-  code/blob/master/LICENSE) 
+ [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://github.com/30-seconds/30-seconds-of-code/blob/master/LICENSE) 
  [![npm Downloads](https://img.shields.io/npm/dt/30-seconds-of-code.svg)](https://www.npmjs.com/package/30-seconds-of-code)
  
  </details>
