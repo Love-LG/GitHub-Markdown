@@ -30,6 +30,8 @@ GitHub常用的markdown语法
   1. item1
   2. item2
   3. item3
+     1. item3_1
+     2. item3_2
   4. item4
   ```
   <details>
