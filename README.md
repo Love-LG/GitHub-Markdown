@@ -55,9 +55,8 @@ markdown常用标题使用`#`语法如下：
 <details>
  <summary>Example</summary>
  
-# this is <h1> tag
-## this is <h2> tag
-### this is <h3> tag
-###### this is <h6> tag
+# 这是一级标题
+## 这是二级标题
+### 这是三级标题
  
  </details>
